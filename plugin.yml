@@ -3,5 +3,5 @@ name: BedWars
 author: abosh
 main: BedWars\BedWars
 version: 1.0.0
-api: 3.0.0
+api: 5.0.0
 ...
